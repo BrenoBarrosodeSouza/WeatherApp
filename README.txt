@@ -43,7 +43,6 @@ cd weather-data-application
 npm install
 5.node app.js
 The server will start on http://localhost:3000.
-
 6.Open the Web Application
 Open index.html in a web browser. You should be able to enter latitude and longitude, submit the form, and view weather data.
 7. Here are some latitude and longitude examples for testing:
